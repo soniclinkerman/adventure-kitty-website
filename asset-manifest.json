@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/adventure-kitty-website/static/css/main.29b933e2.chunk.css",
+    "main.js": "/adventure-kitty-website/static/js/main.02d516a1.chunk.js",
+    "main.js.map": "/adventure-kitty-website/static/js/main.02d516a1.chunk.js.map",
+    "runtime-main.js": "/adventure-kitty-website/static/js/runtime-main.a2e72177.js",
+    "runtime-main.js.map": "/adventure-kitty-website/static/js/runtime-main.a2e72177.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/adventure-kitty-website/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.b06c035e.chunk.js": "/adventure-kitty-website/static/js/2.b06c035e.chunk.js",
+    "static/js/2.b06c035e.chunk.js.map": "/adventure-kitty-website/static/js/2.b06c035e.chunk.js.map",
+    "index.html": "/adventure-kitty-website/index.html",
+    "precache-manifest.0ab1305979ab81e765bcc2c932f76661.js": "/adventure-kitty-website/precache-manifest.0ab1305979ab81e765bcc2c932f76661.js",
+    "service-worker.js": "/adventure-kitty-website/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/adventure-kitty-website/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.29b933e2.chunk.css.map": "/adventure-kitty-website/static/css/main.29b933e2.chunk.css.map",
+    "static/js/2.b06c035e.chunk.js.LICENSE.txt": "/adventure-kitty-website/static/js/2.b06c035e.chunk.js.LICENSE.txt",
+    "static/media/Anna.png": "/adventure-kitty-website/static/media/Anna.a74ca6a3.png",
+    "static/media/Anna_nocolor.png": "/adventure-kitty-website/static/media/Anna_nocolor.b10f565c.png",
+    "static/media/Carton.png": "/adventure-kitty-website/static/media/Carton.71a306b1.png",
+    "static/media/Carton_nocolor.png": "/adventure-kitty-website/static/media/Carton_nocolor.2d84c4df.png",
+    "static/media/Evil_Kitty.png": "/adventure-kitty-website/static/media/Evil_Kitty.f875ae98.png",
+    "static/media/Evil_Kitty_nocolor.png": "/adventure-kitty-website/static/media/Evil_Kitty_nocolor.b7dd029c.png",
+    "static/media/Felicity.png": "/adventure-kitty-website/static/media/Felicity.f3fed2d8.png",
+    "static/media/Felicity_nocolor.png": "/adventure-kitty-website/static/media/Felicity_nocolor.db98474c.png",
+    "static/media/no_name.png": "/adventure-kitty-website/static/media/no_name.a6f50e2f.png",
+    "static/media/no_name_nocolor.png": "/adventure-kitty-website/static/media/no_name_nocolor.5102eace.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2e72177.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.b06c035e.chunk.js",
+    "static/css/main.29b933e2.chunk.css",
+    "static/js/main.02d516a1.chunk.js"
+  ]
+}
