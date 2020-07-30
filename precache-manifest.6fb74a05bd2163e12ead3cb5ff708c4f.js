@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36304730cfb8080f41c566e015128c01",
+    "revision": "f1e85e68cbca7ad7503d255da1d52355",
     "url": "/adventure-kitty-website/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adventure-kitty-website/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "f6d205f10e7d71c4cfee",
+    "revision": "8fc455f5648e25139134",
     "url": "/adventure-kitty-website/static/css/main.29b933e2.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adventure-kitty-website/static/js/2.b06c035e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f6d205f10e7d71c4cfee",
-    "url": "/adventure-kitty-website/static/js/main.02d516a1.chunk.js"
+    "revision": "8fc455f5648e25139134",
+    "url": "/adventure-kitty-website/static/js/main.22cf08d9.chunk.js"
   },
   {
     "revision": "7898cdd482453b40fe71",
