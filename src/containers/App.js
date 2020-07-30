@@ -4,6 +4,7 @@ import CardList from '../components/Cardlist';
 import SearchBox from '../components/SearchBox';
 import { characters } from '../data/character';
 import Scroll from '../components/Scroll';
+import ErrorBoundary from '../components/ErrorBoundary';
 
 class App extends Component{
   constructor(){
@@ -28,14 +29,15 @@ class App extends Component{
     return (
       <div className="App">
         <h1>Meet the Gang</h1>
-        
-        <SearchBox 
-        type={"text"}
-        searchChange={this.filterCharacters}/>
+        <ErrorBoundary> 
+          <SearchBox 
+          type={"text"}
+          searchChange={this.filterCharacters}/>
 
-        <Scroll>
-          <CardList characters={filteredCharacters}/>
-        </Scroll>
+          <Scroll>
+            <CardList characters={filteredCharacters}/>
+          </Scroll>
+        </ErrorBoundary>
         
       </div>
     );
